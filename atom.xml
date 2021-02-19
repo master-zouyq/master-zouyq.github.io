@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://master-zouyq.github.io</id>
     <title>晴天、白日梦</title>
-    <updated>2021-02-19T09:03:03.293Z</updated>
+    <updated>2021-02-19T09:12:57.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://master-zouyq.github.io"/>
     <link rel="self" href="https://master-zouyq.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://master-zouyq.github.io/images/avatar.png</logo>
     <icon>https://master-zouyq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 晴天、白日梦</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridea + 腾讯云搭建个人博客并自定义域名]]></title>
+        <id>https://master-zouyq.github.io/post/gridea-teng-xun-yun-da-jian-ge-ren-bo-ke-bing-zi-ding-yi-yu-ming/</id>
+        <link href="https://master-zouyq.github.io/post/gridea-teng-xun-yun-da-jian-ge-ren-bo-ke-bing-zi-ding-yi-yu-ming/">
+        </link>
+        <updated>2021-02-19T09:11:01.000Z</updated>
+        <content type="html"><![CDATA[<p>这是我的第一篇博客，暂定内容写这个先起个头，容我先改个bug</p>
+]]></content>
+    </entry>
 </feed>
